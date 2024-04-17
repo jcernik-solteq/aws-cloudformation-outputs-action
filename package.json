@@ -1,6 +1,6 @@
 {
   "name": "typescript-action",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "description": "TypeScript template action",
   "main": "lib/main.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/namse/aws-cloudformation-outputs-aciton.git"
+    "url": "git+https://github.com/jcernik-solteq/aws-cloudformation-outputs-aciton.git"
   },
   "keywords": [
     "actions",

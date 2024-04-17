@@ -1,3 +1,5 @@
+Fork of https://github.com/namse/aws-cloudformation-outputs-action, updated to use Node.js 20.
+
 # aws cloudformation outputs action
 
 This action set AWS Cloudformation stack outputs as github action outputs.
@@ -12,7 +14,7 @@ This action set AWS Cloudformation stack outputs as github action outputs.
 
 ### `{key}`
 
-Every key of stack outputs will be filled as github action oputputs.
+Every key of stack outputs will be filled as github action outputs.
 
 ## Example usage
 
